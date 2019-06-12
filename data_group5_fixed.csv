@@ -1,0 +1,177 @@
+Curso,Semestre_ingresso,Idade,Cidade,Estado,Trabalha,Forma_ingresso,Cota,Num_disciplinas,Reprovacao,Media
+Licenciatura em Matemática,161,24,Pelotas,RS,Não,SISU - Ampla concorrência,,25,0,8.9
+Ciências Econômicas,161,21,Alegrete,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",34,14,4
+Engenharia de Computação,181,18,Pelotas,RS,Não,PAVE - Ampla concorrência,,18,0,7.7 (sem certeza)
+Ciência da Computação,171,24,São Paulo,SP,Sim,SISU - Ampla concorrência,,22,4,6.4
+Engenharia de Computação,191,21,Osório ,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",7,1,8.2
+Ciência da Computação,131,27,Porto Alegre,RS,Não,Transferência,,57,16,4.6
+Ciência da Computação,102,26,Pelotas,RS,Sim,SISU - Ampla concorrência,,50,15,5.4
+Engenharia de Computação,121,24,Pelotas,RS,Não,SISU - Ampla concorrência,,67,17,5.7
+Ciência da Computação,172,20,Pelotas,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",17,0,9.5
+Ciência da Computação,171,19,Florianópolis,SC,Não,PAVE - Ampla concorrência,,18,7,5.68
+Ciência da Computação,171,20,São Lourenço do Sul,RS,Não,SISU - Ampla concorrência,,23,0,9.2
+Ciência da Computação,171,21,Porto Alegre,RS,Não,SISU - Ampla concorrência,,22,3,6.7
+Ciência da Computação,171,19,São Lourenço do Sul,RS,Não,PAVE - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",19,5,5.7
+Ciência da Computação,171,19,Porto Alegre,RS,Sim,SISU - Ampla concorrência,,23,0,8.7
+Ciências Econômicas,181,25,Goiânia,GO,Sim,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",20,4,8
+Ciência da Computação,171,19,Santa Rosa,RS,Não,SISU - Ampla concorrência,,24,8,6
+Ciência da Computação,171,20,Pelotas,RS,Não,SISU - Ampla concorrência,,24,3,8.6
+Ciência da Computação,152,22,Pelotas,RS,Não,SISU - Ampla concorrência,,39,7,6.6
+Ciência da Computação,152,23,Pelotas,RS,Sim,SISU - Ampla concorrência,,39,1,8
+Ciência da Computação,151,23,Esteio ,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",26,7,6
+Ciência da Computação,172,21,Capão do Leão,RS,Sim,SISU - Ampla concorrência,,16,0,9.1
+Ciência da Computação,132,25,Goiânia,GO,Não,SISU - Ampla concorrência,,62,5,5.1
+Ciência da Computação,171,21,Rio Grande ,RS,Não,SISU - Ampla concorrência,,23,0,7.5
+Ciências Econômicas,171,19,Pelotas,RS,Sim,PAVE - Ampla concorrência,,22,0,9.1
+Ciência da Computação,171,20,Fraiburgo,SC,Não,SISU - Ampla concorrência,,21,1,6.6
+Engenharia de Computação,141,25,Pelotas,RS,Não,SISU - Ampla concorrência,,47,11,6
+Ciência da Computação,171,21,Pelotas,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",22,4,6.33
+Engenharia de Computação,171,20,Pelotas,RS,Não,SISU - Ampla concorrência,,25,0,8.3
+Engenharia de Computação,171,21,Nova Prata,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",23,0,7.8
+Engenharia de Computação,171,19,São Lourenço do Sul,RS,Não,SISU - Ampla concorrência,,33,0,9.5
+Engenharia de Computação,171,20,Campinas,SP,Não,SISU - Ampla concorrência,,17,1,7
+Ciência da Computação,132,23,Pelotas,RS,Não,Transferência,,22,9,3.5
+Licenciatura em Matemática - Noturno,161,20,Porto Alegre,RS,Sim,SISU - Ampla concorrência,,35,11,5.4
+Licenciatura em Matemática,161,21,São Lourenço do Sul,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",38,3,7.7
+Licenciatura em Matemática,131,33,Canguçu,RS,Não,SISU - Ampla concorrência,,36,8,6.4
+Licenciatura em Matemática,161,20,Pelotas,RS,Não,SISU - Ampla concorrência,,36,3,6.9
+Engenharia Hídrica,161,24,Belém,PA,Não,SISU - Ampla concorrência,,41,5,6.8
+Ciências Econômicas,171,22,Jaguarão,RS,Sim,SISU - Ampla concorrência,,15,7,...
+Engenharia Hídrica,151,22,Pelotas,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",35,10,5
+Engenharia de Computação,151,23,Pelotas,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",42,2,8
+Ciência da Computação,162,20,Caxias do Sul,RS,Sim,SISU - Ampla concorrência,,26,3,7
+Ciência da Computação,162,21,Santa Vitória do Palmar,,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",25,7,6
+Ciência da Computação,171,21,Pelotas ,RS,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",24,3,7
+Ciência da Computação,171,24,Pelotas,RS,Não,SISU - Ampla concorrência,,24,0,8.6
+Ciência da Computação,162,21,Ourinhos,SP,Sim,SISU - Ampla concorrência,,25,1,8
+Ciência da Computação,172,19,Venâncio Aires ,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",18,3,7.1
+Ciência da Computação,172,19,Caxias do Sul,RS,Não,SISU - Ampla concorrência,,16,1,8.4
+Ciência da Computação,182,19,Venâncio Aires,RS,Não,SISU - Ampla concorrência,"L14: com deficiência, autodeclarado preto, pardo ou indígena, que, independentemente da renda, cursou todo EM em escola pública",5,2,nao sei onde ve
+Ciência da Computação,171,20,Pelotas,RS,Não,SISU - Ampla concorrência,,20,0,9
+Ciência da Computação,161,21,Novo Hamburgo,RS,Sim,SISU - Ampla concorrência,,17,0,9.2
+Engenharia de Computação,171,19,Pelotas,RS,Não,PAVE - Ampla concorrência,,18,6,4.5
+Ciência da Computação,172,19,Caxias do Sul,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",16,2,7.2
+Ciência da Computação,161,20,Pelotas,RS,Sim,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",38,11,5.77
+Engenharia de Computação,171,19,Frederico Westphalen,RS,Não,SISU - Ampla concorrência,,20,4,5
+Ciência da Computação,161,26,Suzano,SP,Sim,SISU - Ampla concorrência,,46,11,5
+Licenciatura em Matemática,161,39,Caçapava,SP,Não,SISU - Ampla concorrência,,37,2,8.7
+Licenciatura em Matemática - Noturno,151,22,São Lourenço do Sul ,RS,Não,SISU - Ampla concorrência,,34,0,8.9
+Licenciatura em Matemática,151,21,Canguçu,RS,Não,PAVE - Ampla concorrência,"L5: independentemente da renda, cursou todo EM em escola pública",33,0,9
+Enfermagem,171,19,São Lourenço do Sul,RS,Não,SISU - Ampla concorrência,,13,1,7.7
+Licenciatura em Letras - Port. e Francês,152,22,Pelotas ,RS,Sim,SISU - Ampla concorrência,,45,0,8.7
+Engenharia Hídrica,181,19,Pelotas,RS,Não,SISU - Ampla concorrência,,14,3,5
+Licenciatura em Matemática,171,25,Santos,SP,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",22,4,6.9
+Engenharia Hídrica,171,21,Canguçu,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",29,2,7
+Engenharia de Computação,171,21,Pelotas,RS,Não,SISU - Ampla concorrência,,31,0,7.5
+Engenharia de Computação,171,20,Sete Lagoas,MG,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",25,14,3.5
+Ciências Econômicas,191,22,Suzano,SP,Sim,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",8,2,7.8
+Engenharia Hídrica,171,24,Pelotas,RS,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",37,6,6.3
+Engenharia Hídrica,171,19,Pelotas,RS,Não,SISU - Ampla concorrência,,28,1,7.2
+Engenharia de Computação,141,23,Santo Ângelo ,RS,Sim,SISU - Ampla concorrência,,42,0,8.5
+Engenharia de Computação,141,24,Pelotas,RS,Sim,SISU - Ampla concorrência,,42,0,8.8
+Licenciatura em Matemática - Noturno,151,24,Ubatuba,SP,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",25,2,6.7
+Engenharia de Computação,171,20,Santa Vitória do Palmar,RS,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",10,11,2.3
+Licenciatura em Matemática,151,22,Pelotas,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",35,0,8.4
+Engenharia de Computação,181,24,Betim,MG,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",10,4,7.5
+Engenharia de Computação,181,25,Mogi Mirim,SP,Não,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",15,1,7.2
+Engenharia de Computação,181,23,Tocantins,TO,Não,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",10,1,7.9
+Licenciatura em Matemática - Noturno,161,21,Pelotas,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",28,0,8.2
+Ciência da Computação,172,21,Castro,PR,Sim,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",12,3,6
+Ciência da Computação,172,20,São Lourenço do Sul,RS,Não,PAVE - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",20,3,6.3
+Engenharia de Computação,181,18,Pelotas ,RS,Não,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",10,2,5.63
+Ciência da Computação,132,27,Pelotas,RS,Sim,SISU - Ampla concorrência,,52,11,6.2
+Ciência da Computação,131,23,Pelotas,RS,Não,SISU - Ampla concorrência,,61,17,5.1
+Ciência da Computação,132,23,Pelotas,RS,Sim,SISU - Ampla concorrência,,44,5,7.3
+Relações Internacionais,181,21,Cangucu,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",11,0,8
+Ciência da Computação,172,20,Pelotas,RS,Sim,SISU - Ampla concorrência,,12,4,7
+Ciência da Computação,171,20,Pelotas,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",18,3,7
+Ciência da Computação,172,23,São Leopoldo,RS,Não,SISU - Ampla concorrência,,20,3,6
+Ciência da Computação,172,19,Porto Alegre,RS,Não,SISU - Ampla concorrência,"L5: independentemente da renda, cursou todo EM em escola pública",18,1,7.4
+Ciência da Computação,172,19,Pelotas,RS,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",22,1,6.6
+Licenciatura em Matemática - Noturno,151,24,Pelotas,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",33,1,8.3
+Ciência da Computação,172,20,Canoas ,RS,Não,SISU - Ampla concorrência,,17,7,6
+Ciência da Computação,172,19,Pelotas,RS,Não,PAVE - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",14,8,3.7
+Ciência da Computação,172,20,Camaquã,RS,Não,PAVE - Ampla concorrência,,20,1,8
+Ciência da Computação,172,19,Rio Grande,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",16,3,6.4
+Engenharia de Computação,171,21,Pelotas,RS,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",18,0,8.9
+Engenharia de Computação,171,19,Nova Bassano,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",23,0,8.9
+Engenharia de Computação,171,24,Santiago,RS,Não,SISU - Ampla concorrência,,25,7,5
+Engenharia de Computação,151,21,Pelotas,RS,Não,SISU - Ampla concorrência,"L5: independentemente da renda, cursou todo EM em escola pública",25,17,3.6
+Engenharia de Computação,161,21,Botucatu,SP,Não,SISU - Ampla concorrência,,32,6,6.7
+Engenharia Hídrica,161,23,Pelotas,RS,Não,SISU - Ampla concorrência,,25,10,6.8
+Engenharia de Computação,171,20,São Carlos,SP,Não,SISU - Ampla concorrência,,25,0,90
+Ciência da Computação,132,24,Passo Fundo,RS,Sim,SISU - Ampla concorrência,,49,5,5.9
+Engenharia Hídrica,171,23,Rio de Janeiro,RJ,Não,SISU - Ampla concorrência,,35,0,8
+Engenharia de Computação,171,18,Pelotas,RS,Não,SISU - Ampla concorrência,,28,7,4.2
+Engenharia de Computação,151,21,Tapes,RS,Não,PAVE - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",42,2,7.5
+Engenharia de Computação,151,22,Canguçu ,RS,Sim,SISU - Ampla concorrência,,28,0,8.6
+Licenciatura em Matemática,152,26,Porto Alegre,RS,Sim,SISU - Cota,,30,0,6.4
+Engenharia de Computação,151,24,Pelotas,RS,Não,SISU - Ampla concorrência,,40,5,5.2
+Engenharia de Computação,151,21,Pelotas,RS,Não,PAVE - Ampla concorrência,,47,2,8.2
+Ciência da Computação,141,24,Pelotas,RS,Não,SISU - Ampla concorrência,,40,4,6.2
+Ciência da Computação,161,22,Porto Alegre,RS,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",34,1,7.6
+Ciência da Computação,141,29,Rio de Janeiro,RJ,Sim,SISU - Ampla concorrência,,39,4,6.5
+Ciência da Computação,151,21,Garanhuns,PE,Sim,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",47,3,7.2
+Design Gráfico,171,20,Estrela ,RS,Sim,SISU - Ampla concorrência,,21,0,9.3
+Ciência da Computação,182,18,Pelotas ,RS,Não,SISU - Ampla concorrência,,5,0,8.15
+Ciência da Computação,122,25,Pelotas,RS,Sim,SISU - Ampla concorrência,,100,50,4
+Ciência da Computação,151,23,Pelotas,RS,Sim,SISU - Ampla concorrência,,35,10,5
+Ciência da Computação,151,21,Pelotas ,RS,Não,PAVE - Ampla concorrência,,19,7,5.3
+Jornalismo,171,20,Esteio,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",26,2,7.9
+Ciências Econômicas,191,18,São Leopoldo,RS,Não,SISU - Ampla concorrência,,5,0,-
+Ciências Sociais,161,20,São Paulo,SP,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",28,7,6.4
+Ciências Econômicas,191,29,Santana da Boa Vista,RS,Sim,SISU - Ampla concorrência,,0,0,0
+Ciência da Computação,182,19,Pelotas,RS,Não,SISU - Ampla concorrência,,5,0,9.42
+Ciência da Computação,151,24,Venâncio Aires,RS,Sim,SISU - Ampla concorrência,,48,2,8.1
+Ciência da Computação,141,30,Pelotas,RS,Sim,SISU - Ampla concorrência,,54,6,5.7
+Licenciatura em Geografia,161,23,Novo Hamburgo  Rio Grande do Sul,,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",38,0,8
+Ciência da Computação,142,24,Pelotas,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",42,2,8.1
+Engenharia de Computação,171,24,Pelotas,RS,Sim,PAVE - Ampla concorrência,,11,7,2.7
+Engenharia de Computação,171,22,Pelotas,RS,Sim,PAVE - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",41,2,7
+Engenharia de Computação,171,20,São Lourenço do Sul,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",15,1,7.5
+Ciências Econômicas,171,22,Bacabal,MA,Sim,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",21,1,7.7
+Licenciatura em Letras - Port. e Francês,171,20,Campo Bom ,RS,Sim,SISU - Ampla concorrência,,26,0,7.5
+Engenharia Hídrica,161,31,Pelotas,RS,Não,SISU - Cota,"L2: autodeclarado preto, pardo ou indígena, com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",26,8,4.8
+Engenharia de Computação,151,21,Santa Rosa ,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",46,11,5.9
+Engenharia de Computação,171,25,Pelotas,RS,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",25,14,3.9
+Enfermagem,171,22,Porto Alegre,RS,Não,SISU - Ampla concorrência,,13,2,7.2
+Farmácia,172,19,Alvorada,RS,Não,SISU - Cota,"L6: autodeclarado preto, pardo ou indígena e, independentemente da renda, cursou todo EM em escola pública",20,4,5.2
+Engenharia Hídrica,151,22,Canarana,MT,Não,SISU - Ampla concorrência,,59,12,6.3
+Licenciatura em Matemática,182,23,Pelotas,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",26,0,7.9
+Engenharia de Computação,151,22,Pelotas ,RS,Não,SISU - Ampla concorrência,,35,20,5
+Engenharia de Computação,151,22,Pelotas,RS,Sim,Transferência,"L13: com deficiência e, independentemente da renda, cursou todo EM em escola pública",4,4,1.5
+Ciência da Computação,172,21,Rio de Janeiro,RJ,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",18,3,4.8
+Ciência da Computação,151,21,Canguçu,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",44,0,8.8
+Engenharia de Computação,161,20,Taquari,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",35,0,8.5
+Ciência da Computação,182,24,Sao Leopoldo,RS,Sim,SISU - Ampla concorrência,,28,1,7.4
+Mestrado em Computação,191,24,Santos,SP,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",0,0,8.6
+Ciência da Computação,121,27,Osório ,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",60,13,5
+Ciência da Computação,122,24,Pelotas,RS,Não,SISU - Ampla concorrência,,40,10,5
+Engenharia de Computação,161,24,Santa Rosa,RS,Sim,SISU - Ampla concorrência,,35,5,6.56
+Ciência da Computação,122,26,Rio Grande do Sul,RS,Não,SISU - Ampla concorrência,,40,10,3.2
+Ciência da Computação,121,24,Camaquã ,RS,Sim,SISU - Ampla concorrência,,69,33,3.88
+Engenharia de Computação,151,23,Camaquã,RS,Não,SISU - Ampla concorrência,,30,6,7
+Ciência da Computação,132,27,Pelotas ,RS,Não,SISU - Ampla concorrência,,53,21,5.2
+Ciência da Computação,182,22,Pelotas,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",23,0,7.4
+Engenharia de Computação,171,19,Camaquã ,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",29,9,5
+Engenharia de Computação,171,20,Pelotas,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",21,3,6.6
+Ciência da Computação,122,25,Pelotas,RS,Sim,SISU - Ampla concorrência,,40,10,6.7
+Engenharia de Computação,171,22,São Lourenço do Sul,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",15,8,4
+Licenciatura em Matemática,161,24,Guarapuava,PR,Sim,SISU - Ampla concorrência,,65,5,7.3
+Engenharia de Computação,191,18,Novo Hamburgo,RS,Não,SISU - Ampla concorrência,,26,2,7.2
+Ciência da Computação,142,21,Pelotas ,RS,Não,SISU - Ampla concorrência,,35,15,5.2
+Ciência da Computação,152,22,Bagé,RS,Sim,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",40,0,8.4
+Arquitetura e Urbanismo,151,22,Nonoai,RS,Sim,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",54,0,8.9
+Ciência da Computação,142,23,Dom Feliciano ,RS,Não,SISU - Ampla concorrência,,53,10,5.9
+Arquitetura e Urbanismo,151,21,Bagé,RS,Sim,SISU - Ampla concorrência,,36,0,89
+Engenharia de Computação,171,22,Santa Cruz do Sul,RS,Não,SISU - Ampla concorrência,,24,6,5.56
+Ciência da Computação,151,21,Dom Pedrito,RS,Sim,SISU - Ampla concorrência,,39,9,5
+Agronomia,121,27,Barbacena,MG,Não,SISU - Ampla concorrência,,90,12,3.5
+Ciência da Computação,152,22,Santa Vitória do Palmar,RS,Não,SISU - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",42,5,6.5
+Ciência da Computação,132,24,Cerro Grande do Sul,RS,Não,SISU - Ampla concorrência,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",45,14,5.3
+Ciência da Computação,182,26,Porto Alegre,RS,Não,SISU - Ampla concorrência,"L5: independentemente da renda, cursou todo EM em escola pública",60,11,7.6
+Ciência da Computação,162,20,Pelotas,RS,Não,SISU - Ampla concorrência,,37,3,7
+Ciência da Computação,162,20,Pelotas,RS,Não,PAVE - Cota,"L5: independentemente da renda, cursou todo EM em escola pública",28,7,6
+Ciência da Computação,162,21,Pelotas,RS,Não,SISU - Cota,"L1: com renda familiar < ou = 1,5 salários mínimos e cursou todo EM em escola pública",26,8,6
+Ciência da Computação,92,27,Pelotas,RS,Não,Vestibular,,66,11,4.6
+Ciência da Computação,122,25,Camaquã,RS,Sim,SISU - Ampla concorrência,"L5: independentemente da renda, cursou todo EM em escola pública",27,7,5.4
